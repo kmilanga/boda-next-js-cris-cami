@@ -44,7 +44,7 @@ export default function Details() {
           <h3>Información</h3>
           <p>Aparcamiento gratuito</p>
           <p>Servicio de autobuses</p>
-          <p className="details-note">Lista: El Corte Inglés</p>
+          <p className="details-note">Favor confirmar con antelación</p>
         </div>
       </div>
     </section>
