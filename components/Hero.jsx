@@ -30,7 +30,7 @@ export default function Hero() {
       <div className="hero-overlay"></div>
       
       <div className="hero-content">
-        <h1 className="hero-title">Cristina & Camilo</h1>
+        <h1 className="hero-title">Valeria & Adrián</h1>
         <p className="hero-subtitle">21 de Enero de 2028 · Córdoba</p>
 
         {/* CONTADOR INTEGRADO */}

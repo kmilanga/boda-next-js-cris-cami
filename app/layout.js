@@ -20,21 +20,21 @@ const inter = Inter({
 });
 
 export const metadata = {
-  title: "Cristina & Camilo, Boda 2028",
+  title: "Valeria & Adrián, Boda 2028",
   description:
     "Acompáñanos a celebrar un día lleno de amor, familia y momentos inolvidables.",
   openGraph: {
-    title: "Cristina & Camilo, Boda 2028",
+    title: "Valeria & Adrián, Boda 2028",
     description:
       "Acompáñanos a celebrar un día lleno de amor, familia y momentos inolvidables.",
     url: "https://pendiente.com",
-    siteName: "Cristina & Camilo, Boda 2028",
+    siteName: "Valeria & Adrián, Boda 2028",
     images: [
       {
         url: "/hero.jpg",
         width: 1200,
         height: 800,
-        alt: "Cristina & Camilo",
+        alt: "Valeria & Adrián",
       },
     ],
     locale: "es_ES",
@@ -59,7 +59,7 @@ export default function RootLayout({ children }) {
         <BackToTop />
 
         <header className="site-header reveal">
-          Cristina & Camilo — 21 Enero 2028
+          Valeria & Adrián — 21 Enero 2028
         </header>
 
         <main>
