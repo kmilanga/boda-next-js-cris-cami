@@ -5,7 +5,7 @@ export default function ThankYou() {
         <div className="thankyou-icon">
           <span>❤</span>
         </div>
-        
+
         <h2 className="thankyou-title">Gracias por acompañarnos</h2>
 
         <p className="thankyou-text">
@@ -14,9 +14,7 @@ export default function ThankYou() {
           este capítulo tan importante de nuestras vidas.
         </p>
 
-        <div className="thankyou-signature">
-          
-        </div>
+        <div className="thankyou-signature">Valeria &amp; Adrián</div>
       </div>
     </section>
   );

@@ -3,9 +3,9 @@ export default function Story() {
     <section className="story-section reveal" id="story">
       <div className="story-container">
         <div className="story-image-wrapper">
-          <img 
-            src="/gallery2.jpg" 
-            alt="Ana y Jose" 
+          <img
+            src="/gallery2.jpg"
+            alt="Valeria y Adrián"
             className="story-img"
           />
         </div>
